@@ -1,0 +1,8 @@
+{
+  "name": "SpaceXDempApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "12f2a39d"
+}
